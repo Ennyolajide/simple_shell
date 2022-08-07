@@ -44,7 +44,7 @@ start , must end by
 *   Ongoing project - started Jul 27, 2022 6:00 AM, must end by Aug 11, 2022 6:00 AM
     
 *   You're done with 200% of tasks.
-<!-- *   Checker will be released at Jun 15, 2022 5:02 AM -->
+*   Checker will be released at Aug 10, 2022 1:12 AM
     
 *   An auto review will be launched at the deadline
 
